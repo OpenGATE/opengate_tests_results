@@ -53,5 +53,5 @@ chart = alt.Chart(source, title="History of tests").mark_rect().encode(
     domain=False
 )
 
-chart.save('chart.html')
+chart.save('index.html')
 
