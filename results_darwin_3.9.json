@@ -117,7 +117,7 @@
         true
     ],
     "test019_linac_elekta_versa_with_mlc_rt_plan.py": [
-        true
+        false
     ],
     "test019_linac_phsp.py": [
         true
