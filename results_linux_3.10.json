@@ -198,7 +198,7 @@
         true
     ],
     "test028_ge_nm670_spect_3_proj_mt.py": [
-        true
+        false
     ],
     "test028_ge_nm670_spect_4_acc_angle_aa_se.py": [
         true
@@ -372,7 +372,7 @@
         true
     ],
     "test049_pet_digit_blurring_v2_mt.py": [
-        false
+        true
     ],
     "test049_pet_digit_blurring_v3.py": [
         true

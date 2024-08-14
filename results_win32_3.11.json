@@ -1,6 +1,6 @@
 {
     "test001_g4threevector.py": [
-        false
+        true
     ],
     "test002_g4string.py": [
         true
@@ -81,7 +81,7 @@
         true
     ],
     "test016_bool_volumes.py": [
-        false
+        true
     ],
     "test017_repeater.py": [
         true
