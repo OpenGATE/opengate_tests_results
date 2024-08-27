@@ -17,7 +17,7 @@ def custom_and(x, y):
         return (x and y)
 
 # Import all results from different platform and create 1 result
-files = glob.glob("results_*.json")
+files = glob.glob("dashboard_output_*.json")
 intermediate_results = {}
 for file in files:
     print(file)
