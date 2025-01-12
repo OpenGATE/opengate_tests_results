@@ -519,7 +519,7 @@
         true
     ],
     "test066_stop_simulation_criteria_mt.py": [
-        false
+        true
     ],
     "test066_stop_simulation_criteria_multiple_runs_mt.py": [
         true
