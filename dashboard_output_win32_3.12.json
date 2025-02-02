@@ -228,7 +228,7 @@
         true
     ],
     "test034_gan_phsp_linac.py": [
-        true
+        false
     ],
     "test035_dose_rate.py": [
         true
@@ -261,13 +261,13 @@
         true
     ],
     "test038_gan_phsp_spect_gan_aa.py": [
-        true
+        false
     ],
     "test038_gan_phsp_spect_gan_se.py": [
-        true
+        false
     ],
     "test038_gan_phsp_spect_gan_ze.py": [
-        true
+        false
     ],
     "test039_hits_memory_check.py": [
         true
@@ -276,7 +276,7 @@
         true
     ],
     "test040_gan_phsp_pet_gan.py": [
-        true
+        false
     ],
     "test040_gan_phsp_pet_training_dataset.py": [
         true
@@ -318,7 +318,7 @@
         true
     ],
     "test047_gan_vox_source_cond.py": [
-        true
+        false
     ],
     "test047_voxelization.py": [
         true
