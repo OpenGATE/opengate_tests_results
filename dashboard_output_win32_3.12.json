@@ -444,7 +444,7 @@
         true
     ],
     "test072_coinc_sorter_step2_takeAllGoods.py": [
-        true
+        false
     ],
     "test072_coinc_sorter_step2_takeWinnerIfIsGood.py": [
         true
