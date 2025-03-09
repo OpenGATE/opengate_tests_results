@@ -519,7 +519,7 @@
         true
     ],
     "test066_stop_simulation_criteria_mt.py": [
-        false
+        true
     ],
     "test066_stop_simulation_criteria_multiple_runs_mt.py": [
         true
@@ -552,7 +552,7 @@
         true
     ],
     "test072_coinc_sorter_step2_min_trans_diff.py": [
-        false
+        true
     ],
     "test072_coinc_sorter_step2_removeMultiples.py": [
         true
