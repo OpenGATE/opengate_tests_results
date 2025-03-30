@@ -552,7 +552,7 @@
         true
     ],
     "test072_coinc_sorter_step2_min_trans_diff.py": [
-        true
+        false
     ],
     "test072_coinc_sorter_step2_removeMultiples.py": [
         true
