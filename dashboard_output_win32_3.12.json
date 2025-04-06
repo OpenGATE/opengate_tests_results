@@ -234,7 +234,7 @@
         true
     ],
     "test036_adder_depth_param.py": [
-        false
+        true
     ],
     "test036_adder_depth_repeat.py": [
         true
