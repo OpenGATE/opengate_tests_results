@@ -453,7 +453,7 @@
         true
     ],
     "test074_optical_surfaces_pet_1.py": [
-        false
+        true
     ],
     "test075_siemens_cios_alpha.py": [
         true
