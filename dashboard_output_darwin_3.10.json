@@ -579,10 +579,10 @@
         true
     ],
     "test073_test5_discovery_lu177_mt.py": [
-        true
+        false
     ],
     "test073_test5_discovery_tc99m_mt.py": [
-        true
+        false
     ],
     "test074_optical_surfaces_pet_1.py": [
         true

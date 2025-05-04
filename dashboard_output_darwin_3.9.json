@@ -579,10 +579,10 @@
         true
     ],
     "test073_test5_discovery_lu177_mt.py": [
-        false
+        true
     ],
     "test073_test5_discovery_tc99m_mt.py": [
-        false
+        true
     ],
     "test074_optical_surfaces_pet_1.py": [
         true
@@ -687,10 +687,10 @@
         true
     ],
     "test085_free_flight_spect_2b_fd_mt.py": [
-        true
+        false
     ],
     "test085_free_flight_spect_3_scatter_mt.py": [
-        true
+        false
     ],
     "test085_free_flight_spect_4_combine_images_mt.py": [
         true
