@@ -261,7 +261,7 @@
         true
     ],
     "test038_gan_phsp_spect_gan_aa.py": [
-        false
+        true
     ],
     "test038_gan_phsp_spect_gan_se.py": [
         true
