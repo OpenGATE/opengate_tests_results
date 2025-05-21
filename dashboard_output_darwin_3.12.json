@@ -417,10 +417,10 @@
         true
     ],
     "test053_phid_05_it_ref_mt.py": [
-        false
+        true
     ],
     "test053_phid_06_it_model_mt.py": [
-        false
+        true
     ],
     "test053_phid_08_ar_ref_mt.py": [
         true
