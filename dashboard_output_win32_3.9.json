@@ -377,11 +377,14 @@
     "test059_tpsource_weights.py": [
         ""
     ],
+    "test060_phsp_source_isotropic_direction.py": [
+        ""
+    ],
     "test060_phsp_source_particletype_direct.py": [
         ""
     ],
     "test060_phsp_source_particletype_fromphs_pdgcode.py": [
-        ""
+        true
     ],
     "test060_phsp_source_rotation.py": [
         true
@@ -393,16 +396,16 @@
         true
     ],
     "test061_tp_phs_source.py": [
-        true
+        ""
     ],
     "test062_apply_g4_cmds.py": [
         ""
     ],
     "test063_em_switches.py": [
-        ""
+        true
     ],
     "test065_dose2water_from_edep2water_ct.py": [
-        true
+        ""
     ],
     "test065_dose_from_edep_ct.py": [
         ""
@@ -423,10 +426,10 @@
         true
     ],
     "test069_sim_from_dict.py": [
-        true
+        ""
     ],
     "test070_4d_proton_dose.py": [
-        ""
+        true
     ],
     "test071_custom_geometry_changer.py": [
         ""
@@ -435,7 +438,7 @@
         ""
     ],
     "test072_coinc_sorter_step1.py": [
-        true
+        ""
     ],
     "test072_coinc_sorter_step2_min_trans_diff.py": [
         ""
@@ -447,7 +450,7 @@
         ""
     ],
     "test072_coinc_sorter_step2_takeWinnerIfIsGood.py": [
-        true
+        ""
     ],
     "test072_coinc_sorter_step2_takeWinnerOfGoods.py": [
         ""
@@ -468,16 +471,16 @@
         true
     ],
     "test079_acollin_e_plus_geant4_material.py": [
-        ""
+        true
     ],
     "test079_acollin_ions_customMaterial_version_a.py": [
-        true
-    ],
-    "test079_acollin_ions_customMaterial_version_b.py": [
         ""
     ],
-    "test079_acollin_ions_gate_materials.py": [
+    "test079_acollin_ions_customMaterial_version_b.py": [
         true
+    ],
+    "test079_acollin_ions_gate_materials.py": [
+        ""
     ],
     "test079_acollin_ions_geant4_material.py": [
         ""
@@ -495,7 +498,7 @@
         ""
     ],
     "test081_simulation_optigan_with_random_seed.py": [
-        ""
+        true
     ],
     "test081_tle_1_geom.py": [
         true
@@ -537,7 +540,7 @@
         true
     ],
     "test086_digitizeradderactor_policy.py": [
-        true
+        ""
     ],
     "test087_beam_quality_actor_re.py": [
         ""

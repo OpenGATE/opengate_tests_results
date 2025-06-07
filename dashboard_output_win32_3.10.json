@@ -377,6 +377,9 @@
     "test059_tpsource_weights.py": [
         ""
     ],
+    "test060_phsp_source_isotropic_direction.py": [
+        ""
+    ],
     "test060_phsp_source_particletype_direct.py": [
         ""
     ],
@@ -387,10 +390,10 @@
         ""
     ],
     "test060_phsp_source_translation.py": [
-        ""
+        true
     ],
     "test060_phsp_source_until_next_primary.py": [
-        true
+        ""
     ],
     "test061_tp_phs_source.py": [
         ""
@@ -402,13 +405,13 @@
         ""
     ],
     "test065_dose2water_from_edep2water_ct.py": [
-        ""
-    ],
-    "test065_dose_from_edep_ct.py": [
         true
     ],
-    "test065_dose_from_edep_volume.py": [
+    "test065_dose_from_edep_ct.py": [
         ""
+    ],
+    "test065_dose_from_edep_volume.py": [
+        true
     ],
     "test066_phspsource_activity.py": [
         true
@@ -417,7 +420,7 @@
         true
     ],
     "test068_rotation_source.py": [
-        true
+        ""
     ],
     "test069_sim_as_dict.py": [
         ""
@@ -483,10 +486,10 @@
         ""
     ],
     "test079_acollin_ions_geant4_material_inside_body.py": [
-        ""
+        true
     ],
     "test079_acollin_ions_two_materials.py": [
-        true
+        ""
     ],
     "test080_check_classes_are_processed.py": [
         ""
@@ -522,10 +525,10 @@
         ""
     ],
     "test083_actor_output_pickling.py": [
-        ""
+        true
     ],
     "test083_test_operator_brem_splitting.py": [
-        true
+        ""
     ],
     "test084_attenuation_map1.py": [
         ""

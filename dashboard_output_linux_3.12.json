@@ -411,7 +411,7 @@
         true
     ],
     "test052_tac_activity_source.py": [
-        true
+        ""
     ],
     "test053_phid_04_tac.py": [
         ""
@@ -476,6 +476,9 @@
     "test059_tpsource_weights.py": [
         ""
     ],
+    "test060_phsp_source_isotropic_direction.py": [
+        ""
+    ],
     "test060_phsp_source_particletype_direct.py": [
         ""
     ],
@@ -483,10 +486,10 @@
         ""
     ],
     "test060_phsp_source_rotation.py": [
-        ""
+        true
     ],
     "test060_phsp_source_translation.py": [
-        true
+        ""
     ],
     "test060_phsp_source_until_next_primary.py": [
         ""
@@ -507,22 +510,22 @@
         ""
     ],
     "test065_dose2water_from_edep2water_ct.py": [
-        ""
+        true
     ],
     "test065_dose_from_edep_ct.py": [
-        true
+        ""
     ],
     "test065_dose_from_edep_volume.py": [
         ""
     ],
     "test066_phspsource_activity.py": [
-        ""
+        true
     ],
     "test066_stop_simulation_criteria_mt.py": [
         true
     ],
     "test066_stop_simulation_criteria_multiple_runs_mt.py": [
-        true
+        ""
     ],
     "test067_cbct_fluence_actor_mt.py": [
         ""
@@ -552,25 +555,25 @@
         true
     ],
     "test072_coinc_sorter_step2_min_trans_diff.py": [
-        ""
+        true
     ],
     "test072_coinc_sorter_step2_removeMultiples.py": [
-        true
-    ],
-    "test072_coinc_sorter_step2_takeAllGoods.py": [
         ""
     ],
-    "test072_coinc_sorter_step2_takeWinnerIfIsGood.py": [
+    "test072_coinc_sorter_step2_takeAllGoods.py": [
         true
+    ],
+    "test072_coinc_sorter_step2_takeWinnerIfIsGood.py": [
+        ""
     ],
     "test072_coinc_sorter_step2_takeWinnerOfGoods.py": [
         ""
     ],
     "test073_test1_intevo_mt.py": [
-        ""
+        true
     ],
     "test073_test2_intevo_mt.py": [
-        true
+        ""
     ],
     "test073_test3_intevo_tc99m_mt.py": [
         ""
@@ -591,19 +594,19 @@
         ""
     ],
     "test076_progress_bar_mt.py": [
-        ""
+        true
     ],
     "test077_scatter.py": [
-        true
+        ""
     ],
     "test078_check_userinfo.py": [
         ""
     ],
     "test079_acollin_b2b.py": [
-        ""
+        true
     ],
     "test079_acollin_e_plus_geant4_material.py": [
-        true
+        ""
     ],
     "test079_acollin_ions_customMaterial_version_a.py": [
         ""
@@ -615,22 +618,22 @@
         ""
     ],
     "test079_acollin_ions_geant4_material.py": [
-        ""
-    ],
-    "test079_acollin_ions_geant4_material_inside_body.py": [
         true
     ],
-    "test079_acollin_ions_two_materials.py": [
+    "test079_acollin_ions_geant4_material_inside_body.py": [
         ""
+    ],
+    "test079_acollin_ions_two_materials.py": [
+        true
     ],
     "test080_check_classes_are_processed.py": [
         true
     ],
     "test080_check_initcpp_exists.py": [
-        true
+        ""
     ],
     "test081_simulation_optigan_with_random_seed.py": [
-        ""
+        true
     ],
     "test081_tle_1_geom.py": [
         ""

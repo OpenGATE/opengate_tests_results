@@ -476,6 +476,9 @@
     "test059_tpsource_weights.py": [
         true
     ],
+    "test060_phsp_source_isotropic_direction.py": [
+        ""
+    ],
     "test060_phsp_source_particletype_direct.py": [
         ""
     ],
@@ -501,10 +504,10 @@
         ""
     ],
     "test063_em_switches.py": [
-        ""
+        true
     ],
     "test064_kill_actor_mt.py": [
-        true
+        ""
     ],
     "test065_dose2water_from_edep2water_ct.py": [
         ""
@@ -540,10 +543,10 @@
         ""
     ],
     "test070_4d_proton_dose.py": [
-        ""
+        true
     ],
     "test071_custom_geometry_changer.py": [
-        true
+        ""
     ],
     "test072_back_to_back_source.py": [
         ""
@@ -552,13 +555,13 @@
         true
     ],
     "test072_coinc_sorter_step2_min_trans_diff.py": [
-        true
-    ],
-    "test072_coinc_sorter_step2_removeMultiples.py": [
         ""
     ],
-    "test072_coinc_sorter_step2_takeAllGoods.py": [
+    "test072_coinc_sorter_step2_removeMultiples.py": [
         true
+    ],
+    "test072_coinc_sorter_step2_takeAllGoods.py": [
+        ""
     ],
     "test072_coinc_sorter_step2_takeWinnerIfIsGood.py": [
         ""
@@ -567,10 +570,10 @@
         ""
     ],
     "test073_test1_intevo_mt.py": [
-        ""
+        true
     ],
     "test073_test2_intevo_mt.py": [
-        true
+        ""
     ],
     "test073_test3_intevo_tc99m_mt.py": [
         ""
@@ -588,7 +591,7 @@
         true
     ],
     "test075_siemens_cios_alpha.py": [
-        true
+        ""
     ],
     "test076_progress_bar_mt.py": [
         ""
@@ -606,13 +609,13 @@
         ""
     ],
     "test079_acollin_ions_customMaterial_version_a.py": [
-        ""
+        true
     ],
     "test079_acollin_ions_customMaterial_version_b.py": [
         true
     ],
     "test079_acollin_ions_gate_materials.py": [
-        true
+        ""
     ],
     "test079_acollin_ions_geant4_material.py": [
         ""
@@ -645,7 +648,7 @@
         ""
     ],
     "test081_tle_6_brem_splitting.py": [
-        ""
+        true
     ],
     "test081_tle_7_vox_rd_HU.py": [
         ""
