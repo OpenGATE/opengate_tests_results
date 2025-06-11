@@ -30,7 +30,7 @@
         ""
     ],
     "test008_geometry_dose_grid.py": [
-        ""
+        true
     ],
     "test009_voxels.py": [
         ""
@@ -438,7 +438,7 @@
         ""
     ],
     "test072_coinc_sorter_step1.py": [
-        true
+        ""
     ],
     "test072_coinc_sorter_step2_min_trans_diff.py": [
         ""
@@ -453,13 +453,13 @@
         ""
     ],
     "test072_coinc_sorter_step2_takeWinnerOfGoods.py": [
-        true
+        ""
     ],
     "test074_optical_surfaces_pet_1.py": [
         ""
     ],
     "test075_siemens_cios_alpha.py": [
-        ""
+        true
     ],
     "test077_scatter.py": [
         ""
@@ -498,13 +498,13 @@
         ""
     ],
     "test081_simulation_optigan_with_random_seed.py": [
-        true
+        ""
     ],
     "test081_tle_1_geom.py": [
         ""
     ],
     "test081_tle_2_vox.py": [
-        ""
+        true
     ],
     "test081_tle_4_high_energy.py": [
         ""
@@ -519,7 +519,7 @@
         ""
     ],
     "test082_kill_according_all_processes.py": [
-        true
+        ""
     ],
     "test082_kill_according_processes.py": [
         ""
@@ -537,7 +537,7 @@
         ""
     ],
     "test085_free_flight_phsp_2_ff.py": [
-        true
+        ""
     ],
     "test086_digitizeradderactor_policy.py": [
         ""
@@ -546,25 +546,25 @@
         true
     ],
     "test087_volumes_with_and_without_repetition.py": [
-        true
+        ""
     ],
     "test088_emcalc_actor.py": [
-        ""
-    ],
-    "test088_isotopes.py": [
-        ""
-    ],
-    "test089_geometries.py": [
         true
     ],
-    "test089_set_ionisation_potential.py": [
+    "test088_isotopes.py": [
+        true
+    ],
+    "test089_geometries.py": [
         ""
+    ],
+    "test089_set_ionisation_potential.py": [
+        true
     ],
     "test090_spect_config_1.py": [
         true
     ],
     "test090_spect_config_2.py": [
-        true
+        ""
     ],
     "test090_spect_config_3.py": [
         true
@@ -588,6 +588,12 @@
         true
     ],
     "test093_proc_in_vol_attribute.py": [
+        true
+    ],
+    "test094b_spect_build_pytomography.py": [
+        true
+    ],
+    "test094c_spect_reconstruction_pytomography.py": [
         true
     ]
 }

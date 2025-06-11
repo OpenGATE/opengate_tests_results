@@ -468,13 +468,13 @@
         ""
     ],
     "test079_acollin_b2b.py": [
-        true
+        ""
     ],
     "test079_acollin_e_plus_geant4_material.py": [
         true
     ],
     "test079_acollin_ions_customMaterial_version_a.py": [
-        ""
+        true
     ],
     "test079_acollin_ions_customMaterial_version_b.py": [
         true
@@ -492,7 +492,7 @@
         ""
     ],
     "test080_check_classes_are_processed.py": [
-        true
+        ""
     ],
     "test080_check_initcpp_exists.py": [
         ""
@@ -504,10 +504,10 @@
         true
     ],
     "test081_tle_2_vox.py": [
-        true
+        ""
     ],
     "test081_tle_4_high_energy.py": [
-        ""
+        true
     ],
     "test081_tle_5_db.py": [
         ""
@@ -525,28 +525,28 @@
         ""
     ],
     "test083_actor_output_pickling.py": [
-        true
+        ""
     ],
     "test083_test_operator_brem_splitting.py": [
-        ""
+        true
     ],
     "test084_attenuation_map1.py": [
         true
     ],
     "test084_attenuation_map2_hu.py": [
-        true
+        ""
     ],
     "test085_free_flight_phsp_2_ff.py": [
         true
     ],
     "test086_digitizeradderactor_policy.py": [
-        ""
+        true
     ],
     "test087_beam_quality_actor_re.py": [
-        ""
+        true
     ],
     "test087_volumes_with_and_without_repetition.py": [
-        ""
+        true
     ],
     "test088_emcalc_actor.py": [
         ""
@@ -555,7 +555,7 @@
         ""
     ],
     "test089_geometries.py": [
-        true
+        ""
     ],
     "test089_set_ionisation_potential.py": [
         ""
@@ -564,7 +564,7 @@
         true
     ],
     "test090_spect_config_2.py": [
-        true
+        ""
     ],
     "test090_spect_config_3.py": [
         true
@@ -588,6 +588,12 @@
         true
     ],
     "test093_proc_in_vol_attribute.py": [
+        true
+    ],
+    "test094b_spect_build_pytomography.py": [
+        true
+    ],
+    "test094c_spect_reconstruction_pytomography.py": [
         true
     ]
 }
