@@ -696,7 +696,7 @@
         true
     ],
     "test085_free_flight_spect_4_combine_images_mt.py": [
-        true
+        false
     ],
     "test086_digitizeradderactor_policy.py": [
         true
