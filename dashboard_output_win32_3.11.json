@@ -387,7 +387,7 @@
         true
     ],
     "test060_phsp_source_rotation.py": [
-        true
+        false
     ],
     "test060_phsp_source_translation.py": [
         true
