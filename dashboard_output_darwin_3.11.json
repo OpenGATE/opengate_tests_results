@@ -767,6 +767,9 @@
     "test095_spect_nm670_geom_plot.py": [
         true
     ],
+    "test096_ideal_Compton_sorter.py": [
+        true
+    ],
     "test096_pet_blur1.py": [
         true
     ],

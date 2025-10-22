@@ -663,7 +663,7 @@
         true
     ],
     "test085_free_flight_phsp_1_ref_mt.py": [
-        false
+        true
     ],
     "test085_free_flight_phsp_2_ff_mt.py": [
         true
@@ -726,7 +726,7 @@
         true
     ],
     "test090_spect_config_5.py": [
-        true
+        false
     ],
     "test090_spect_config_6.py": [
         true
@@ -765,6 +765,9 @@
         true
     ],
     "test095_spect_nm670_geom_plot.py": [
+        true
+    ],
+    "test096_ideal_Compton_sorter.py": [
         true
     ],
     "test096_pet_blur1.py": [
