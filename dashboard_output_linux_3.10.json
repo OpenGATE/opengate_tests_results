@@ -540,7 +540,7 @@
         true
     ],
     "test072_coinc_sorter_step2_file_output.py": [
-        true
+        false
     ],
     "test072_coinc_sorter_step2_min_trans_diff.py": [
         true
@@ -663,7 +663,7 @@
         true
     ],
     "test085_free_flight_phsp_1_ref_mt.py": [
-        false
+        true
     ],
     "test085_free_flight_phsp_2_ff_mt.py": [
         true
