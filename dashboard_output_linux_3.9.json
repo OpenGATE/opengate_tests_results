@@ -771,7 +771,7 @@
         true
     ],
     "test096_multi_run_simulation_using_n_generic_source.py": [
-        true
+        false
     ],
     "test096_multi_run_simulation_using_n_phsp_source.py": [
         true
