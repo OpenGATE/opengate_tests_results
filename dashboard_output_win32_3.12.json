@@ -617,169 +617,169 @@
     "external\\castor\\test096_pet_castor.py": [
         ""
     ],
-    "test096_ideal_Compton_sorter.py": [
-        true
-    ],
-    "test095_spect_nm670_geom_plot.py": [
-        true
-    ],
-    "test025_hits_collection.py": [
-        true
-    ],
-    "test089_set_ionisation_potential.py": [
-        true
-    ],
-    "test078_check_userinfo.py": [
-        true
-    ],
-    "test032_voxel_vs_volume.py": [
-        true
-    ],
-    "test067_tesselated_volume.py": [
-        true
-    ],
-    "test090_spect_config_6.py": [
-        true
-    ],
-    "test019_linac_phsp_source.py": [
-        true
-    ],
-    "test044_pbs.py": [
-        true
-    ],
-    "test010_generic_source.py": [
-        true
-    ],
-    "test060_phsp_source_until_next_primary.py": [
-        true
-    ],
     "test096_pet_blur1.py": [
-        true
-    ],
-    "test035_dose_rate.py": [
-        true
-    ],
-    "test096_multi_run_simulation_using_n_generic_source.py": [
-        true
-    ],
-    "test053_phid_04_tac.py": [
-        true
-    ],
-    "test049_pet_digit_blurring_v3.py": [
-        true
-    ],
-    "test009_voxels_save_mat.py": [
-        true
-    ],
-    "test059_tpsource_optics.py": [
-        true
-    ],
-    "test009_voxels_dynamic.py": [
-        true
-    ],
-    "test077_scatter.py": [
-        true
-    ],
-    "test049_pet_digit_blurring_v4.py": [
-        true
-    ],
-    "test095_spect_intevo_geom_param.py": [
-        true
-    ],
-    "test096_pet_castor.py": [
-        true
-    ],
-    "test063_em_switches.py": [
         true
     ],
     "test082_kill_according_all_processes.py": [
         true
     ],
-    "test019_linac_elekta_versa_rt_plan_isocenter.py": [
-        true
-    ],
-    "test060_phsp_source_translation.py": [
-        true
-    ],
-    "test026_simple_signal.py": [
-        true
-    ],
-    "test090_spect_config_3.py": [
+    "test015_iec_phantom_voxelize_5.py": [
         true
     ],
     "test046_rad.py": [
         true
     ],
-    "test052_tac_activity_source.py": [
-        true
-    ],
-    "test079_acollin_ions_two_materials.py": [
-        true
-    ],
     "test089_geometries.py": [
         true
     ],
-    "test062_apply_g4_cmds.py": [
-        true
-    ],
-    "test007_volumes.py": [
-        true
-    ],
-    "test004_simple_subprocess.py": [
-        true
-    ],
-    "test057_digit_efficiency.py": [
-        true
-    ],
-    "test029_volume_time_rotation_2.py": [
-        true
-    ],
-    "test034_gan_phsp_linac.py": [
+    "test095_spect_nm670_geom_plot.py": [
         true
     ],
     "test066_phspsource_activity.py": [
         true
     ],
-    "test015_iec_phantom_voxelize_5.py": [
-        true
-    ],
-    "test088_isotopes.py": [
-        true
-    ],
-    "test036_adder_depth_param.py": [
-        true
-    ],
-    "test030_dose_motion_dynamic_param.py": [
-        true
-    ],
-    "test028_ge_nm670_spect_4_acc_angle_noaa.py": [
-        true
-    ],
-    "test015_iec_phantom_4.py": [
-        true
-    ],
-    "test095_spect_intevo_geom_plot.py": [
-        true
-    ],
-    "test096_multi_run_simulation_using_n_phsp_source.py": [
-        true
-    ],
-    "test083_test_operator_brem_splitting.py": [
-        true
-    ],
-    "test009_voxels_hu.py": [
-        true
-    ],
-    "test095_spect_nm670_geom_param.py": [
-        true
-    ],
-    "test094b_spect_build_pytomography.py": [
+    "test062_apply_g4_cmds.py": [
         true
     ],
     "test021_voxel_source2.py": [
         true
     ],
+    "test029_volume_time_rotation_2.py": [
+        true
+    ],
+    "test049_pet_digit_blurring_v3.py": [
+        true
+    ],
+    "test067_tesselated_volume.py": [
+        true
+    ],
+    "test019_linac_phsp_source.py": [
+        true
+    ],
+    "test063_em_switches.py": [
+        true
+    ],
+    "test079_acollin_ions_two_materials.py": [
+        true
+    ],
+    "test035_dose_rate.py": [
+        true
+    ],
+    "test083_test_operator_brem_splitting.py": [
+        true
+    ],
+    "test010_generic_source.py": [
+        true
+    ],
+    "test044_pbs.py": [
+        true
+    ],
+    "test094b_spect_build_pytomography.py": [
+        true
+    ],
+    "test057_digit_efficiency.py": [
+        true
+    ],
+    "test096_pet_castor.py": [
+        true
+    ],
+    "test028_ge_nm670_spect_4_acc_angle_noaa.py": [
+        true
+    ],
+    "test090_spect_config_6.py": [
+        true
+    ],
+    "test089_set_ionisation_potential.py": [
+        true
+    ],
+    "test052_tac_activity_source.py": [
+        true
+    ],
+    "test025_hits_collection.py": [
+        true
+    ],
+    "test019_linac_elekta_versa_rt_plan_isocenter.py": [
+        true
+    ],
+    "test004_simple_subprocess.py": [
+        true
+    ],
+    "test095_spect_intevo_geom_param.py": [
+        true
+    ],
+    "test009_voxels_save_mat.py": [
+        true
+    ],
     "test072_coinc_sorter_step1.py": [
+        true
+    ],
+    "test090_spect_config_3.py": [
+        true
+    ],
+    "test053_phid_04_tac.py": [
+        true
+    ],
+    "test059_tpsource_optics.py": [
+        true
+    ],
+    "test030_dose_motion_dynamic_param.py": [
+        true
+    ],
+    "test088_isotopes.py": [
+        true
+    ],
+    "test060_phsp_source_until_next_primary.py": [
+        true
+    ],
+    "test095_spect_nm670_geom_param.py": [
+        true
+    ],
+    "test049_pet_digit_blurring_v4.py": [
+        true
+    ],
+    "test032_voxel_vs_volume.py": [
+        true
+    ],
+    "test036_adder_depth_param.py": [
+        true
+    ],
+    "test077_scatter.py": [
+        true
+    ],
+    "test009_voxels_dynamic.py": [
+        true
+    ],
+    "test009_voxels_hu.py": [
+        true
+    ],
+    "test015_iec_phantom_4.py": [
+        true
+    ],
+    "test096_multi_run_simulation_using_n_generic_source.py": [
+        true
+    ],
+    "test026_simple_signal.py": [
+        true
+    ],
+    "test034_gan_phsp_linac.py": [
+        true
+    ],
+    "test095_spect_intevo_geom_plot.py": [
+        true
+    ],
+    "test078_check_userinfo.py": [
+        true
+    ],
+    "test096_multi_run_simulation_using_n_phsp_source.py": [
+        true
+    ],
+    "test060_phsp_source_translation.py": [
+        true
+    ],
+    "test007_volumes.py": [
+        true
+    ],
+    "test096_ideal_Compton_sorter.py": [
         true
     ],
     "test072_coinc_sorter_step2_file_output.py": [

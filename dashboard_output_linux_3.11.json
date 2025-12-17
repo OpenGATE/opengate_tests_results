@@ -791,37 +791,208 @@
     "external/castor/test096_pet_castor.py": [
         ""
     ],
+    "test015_iec_phantom_2.py": [
+        true
+    ],
     "test081_tle_6_brem_splitting.py": [
         true
     ],
-    "test032_voxel_vs_volume.py": [
+    "test010_generic_source_angular_distribution.py": [
         true
     ],
-    "test033_rotation_spect_noaa.py": [
+    "test096_pet_castor.py": [
         true
     ],
-    "test032_create_voxelized_volume.py": [
+    "test096_multi_run_simulation_using_n_generic_source.py": [
         true
     ],
-    "test023_filters_material.py": [
+    "test029_volume_time_rotation_2.py": [
         true
     ],
-    "test086_digitizeradderactor_policy.py": [
+    "test073_test2_intevo_mt.py": [
         true
     ],
-    "test095_spect_nm670_geom_plot.py": [
+    "test059_tpsource_abs_dose.py": [
         true
     ],
-    "test023_filters.py": [
+    "test053_phid_10_all_ref_mt.py": [
+        true
+    ],
+    "test096_pet_blur2_mt.py": [
+        true
+    ],
+    "test004_simulation_stats_actor.py": [
+        true
+    ],
+    "test079_acollin_ions_two_materials.py": [
+        true
+    ],
+    "test079_acollin_e_plus_geant4_material.py": [
+        true
+    ],
+    "test095_spect_nm670_geom_param.py": [
+        true
+    ],
+    "test096_multi_run_simulation_using_n_phsp_source.py": [
+        true
+    ],
+    "test014_engine_2.py": [
+        true
+    ],
+    "test035_dose_rate.py": [
+        true
+    ],
+    "test096_ideal_Compton_sorter.py": [
         true
     ],
     "test089_set_ionisation_potential.py": [
         true
     ],
-    "test058_iec_six_spheres.py": [
+    "test023_filters.py": [
+        true
+    ],
+    "test033_rotation_spect_noaa.py": [
+        true
+    ],
+    "test082_kill_according_all_processes.py": [
+        true
+    ],
+    "test026_simple_signal.py": [
+        true
+    ],
+    "test047_gan_vox_source_cond.py": [
+        true
+    ],
+    "test078_check_userinfo.py": [
+        true
+    ],
+    "test073_test5_discovery_lu177_mt.py": [
+        true
+    ],
+    "test079_acollin_ions_gate_materials.py": [
+        true
+    ],
+    "test059_tpsource_gantry_rot.py": [
+        true
+    ],
+    "test085_free_flight_spect_2b_fd_mt.py": [
+        true
+    ],
+    "test033_rotation_spect_aa_se.py": [
+        true
+    ],
+    "test033_rotation_spect_aa_ze.py": [
+        true
+    ],
+    "test014_engine_4_mt.py": [
+        true
+    ],
+    "test086_digitizeradderactor_policy.py": [
+        true
+    ],
+    "test059_tpsource_optics.py": [
+        true
+    ],
+    "test053_phid_08_ar_ref_mt.py": [
+        true
+    ],
+    "test059_tpsource_flat_generation_flag.py": [
+        true
+    ],
+    "test096_pet_blur1.py": [
+        true
+    ],
+    "test019_linac_elekta_versa_with_mlc_phsp_source.py": [
+        true
+    ],
+    "test039_hits_memory_check_mt.py": [
+        true
+    ],
+    "test013_phys_lists_4.py": [
+        true
+    ],
+    "test015_iec_phantom_voxelize_5.py": [
+        true
+    ],
+    "test095_spect_nm670_geom_plot.py": [
+        true
+    ],
+    "test080_check_classes_are_processed.py": [
+        true
+    ],
+    "test006_runs.py": [
+        true
+    ],
+    "test019_linac_elekta_synergy.py": [
+        true
+    ],
+    "test028_ge_nm670_spect_3_proj_blur.py": [
+        true
+    ],
+    "test048_split_spect_projections.py": [
+        true
+    ],
+    "test023_filters_material.py": [
+        true
+    ],
+    "test054_parallel_geometry.py": [
+        true
+    ],
+    "test085_free_flight_phsp_1_ref_mt.py": [
+        true
+    ],
+    "test084_attenuation_map1.py": [
+        true
+    ],
+    "test072_coinc_sorter_step1.py": [
+        true
+    ],
+    "test023_filters_attribute_bool.py": [
+        true
+    ],
+    "test003_g4material.py": [
+        true
+    ],
+    "test076_progress_bar_mt.py": [
+        true
+    ],
+    "test063_em_switches.py": [
+        true
+    ],
+    "test032_create_voxelized_volume.py": [
+        true
+    ],
+    "test090_spect_config_5.py": [
+        true
+    ],
+    "test087_beam_quality_actor_re.py": [
+        true
+    ],
+    "test066_stop_simulation_criteria_multiple_runs_mt.py": [
+        true
+    ],
+    "test036_proj_param_2_with_index.py": [
+        true
+    ],
+    "test032_voxel_vs_volume.py": [
+        true
+    ],
+    "test090_spect_config_2a_mt.py": [
+        true
+    ],
+    "test067_cbct_fluence_actor_mt.py": [
+        true
+    ],
+    "test085_free_flight_spect_2a_ff_mt.py": [
+        true
+    ],
+    "test033_rotation_spect_aa_se_mt.py": [
         true
     ],
     "test009_voxels_hu.py": [
+        true
+    ],
+    "test058_iec_six_spheres.py": [
         true
     ],
     "test014_engine_1.py": [
@@ -830,184 +1001,13 @@
     "test079_acollin_b2b.py": [
         true
     ],
-    "test029_volume_time_rotation_2.py": [
-        true
-    ],
-    "test047_gan_vox_source_cond.py": [
-        true
-    ],
-    "test085_free_flight_spect_2a_ff_mt.py": [
-        true
-    ],
-    "test015_iec_phantom_2.py": [
-        true
-    ],
-    "test033_rotation_spect_aa_se.py": [
-        true
-    ],
-    "test085_free_flight_phsp_1_ref_mt.py": [
-        true
-    ],
-    "test096_multi_run_simulation_using_n_phsp_source.py": [
-        true
-    ],
-    "test014_engine_4_mt.py": [
-        true
-    ],
-    "test085_free_flight_spect_2b_fd_mt.py": [
-        true
-    ],
-    "test035_dose_rate.py": [
-        true
-    ],
-    "test059_tpsource_abs_dose.py": [
-        true
-    ],
-    "test066_stop_simulation_criteria_multiple_runs_mt.py": [
-        true
-    ],
-    "test033_rotation_spect_aa_se_mt.py": [
-        true
-    ],
-    "test004_simulation_stats_actor.py": [
-        true
-    ],
-    "test079_acollin_ions_gate_materials.py": [
-        true
-    ],
-    "test090_spect_config_2a_mt.py": [
-        true
-    ],
-    "test013_phys_lists_4.py": [
-        true
-    ],
-    "test079_acollin_e_plus_geant4_material.py": [
-        true
-    ],
-    "test053_phid_08_ar_ref_mt.py": [
-        true
-    ],
-    "test059_tpsource_optics.py": [
-        true
-    ],
-    "test003_g4material.py": [
-        true
-    ],
-    "test096_pet_blur1.py": [
-        true
-    ],
-    "test063_em_switches.py": [
-        true
-    ],
-    "test084_attenuation_map1.py": [
-        true
-    ],
     "test095_spect_intevo_geom_plot.py": [
-        true
-    ],
-    "test072_coinc_sorter_step1.py": [
-        true
-    ],
-    "test082_kill_according_all_processes.py": [
-        true
-    ],
-    "test096_pet_castor.py": [
-        true
-    ],
-    "test006_runs.py": [
-        true
-    ],
-    "test076_progress_bar_mt.py": [
-        true
-    ],
-    "test014_engine_2.py": [
-        true
-    ],
-    "test015_iec_phantom_voxelize_5.py": [
-        true
-    ],
-    "test095_spect_nm670_geom_param.py": [
-        true
-    ],
-    "test080_check_classes_are_processed.py": [
-        true
-    ],
-    "test059_tpsource_gantry_rot.py": [
-        true
-    ],
-    "test079_acollin_ions_two_materials.py": [
-        true
-    ],
-    "test053_phid_10_all_ref_mt.py": [
-        true
-    ],
-    "test039_hits_memory_check_mt.py": [
-        true
-    ],
-    "test048_split_spect_projections.py": [
-        true
-    ],
-    "test073_test2_intevo_mt.py": [
-        true
-    ],
-    "test033_rotation_spect_aa_ze.py": [
-        true
-    ],
-    "test078_check_userinfo.py": [
-        true
-    ],
-    "test059_tpsource_flat_generation_flag.py": [
-        true
-    ],
-    "test096_pet_blur3_mt.py": [
-        true
-    ],
-    "test096_pet_blur2_mt.py": [
-        true
-    ],
-    "test019_linac_elekta_versa_with_mlc_phsp_source.py": [
-        true
-    ],
-    "test067_cbct_fluence_actor_mt.py": [
-        true
-    ],
-    "test087_beam_quality_actor_re.py": [
-        true
-    ],
-    "test028_ge_nm670_spect_3_proj_blur.py": [
-        true
-    ],
-    "test026_simple_signal.py": [
-        true
-    ],
-    "test090_spect_config_5.py": [
-        true
-    ],
-    "test036_proj_param_2_with_index.py": [
-        true
-    ],
-    "test010_generic_source_angular_distribution.py": [
-        true
-    ],
-    "test019_linac_elekta_synergy.py": [
-        true
-    ],
-    "test096_multi_run_simulation_using_n_generic_source.py": [
-        true
-    ],
-    "test073_test5_discovery_lu177_mt.py": [
         true
     ],
     "test022_half_life.py": [
         true
     ],
-    "test054_parallel_geometry.py": [
-        true
-    ],
-    "test023_filters_attribute_bool.py": [
-        true
-    ],
-    "test096_ideal_Compton_sorter.py": [
+    "test096_pet_blur3_mt.py": [
         true
     ],
     "test072_coinc_sorter_step2_min_trans_diff.py": [

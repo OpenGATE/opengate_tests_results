@@ -617,67 +617,151 @@
     "external\\castor\\test096_pet_castor.py": [
         ""
     ],
-    "test060_phsp_source_isotropic_direction.py": [
-        true
-    ],
-    "test096_multi_run_simulation_using_n_phsp_source.py": [
+    "test074_optical_surfaces_pet_1.py": [
         true
     ],
     "test037_pet_hits_singles_1.py": [
         true
     ],
-    "test028_ge_nm670_spect_1_colli.py": [
+    "test095_spect_nm670_geom_param.py": [
         true
     ],
-    "test089_geometries.py": [
+    "test023_filters_attribute.py": [
         true
     ],
-    "test029_volume_time_rotation_2.py": [
+    "test090_spect_config_4.py": [
         true
     ],
-    "test028_ge_nm670_spect_3_proj_blur.py": [
-        true
-    ],
-    "test047_gan_vox_source_cond.py": [
-        true
-    ],
-    "test078_check_userinfo.py": [
-        true
-    ],
-    "test002_g4string.py": [
+    "test010_generic_source.py": [
         true
     ],
     "test084_attenuation_map2_hu.py": [
         true
     ],
-    "test095_spect_nm670_geom_param.py": [
+    "test028_ge_nm670_spect_1_colli.py": [
         true
     ],
-    "test075_siemens_cios_alpha.py": [
-        true
-    ],
-    "test077_scatter.py": [
-        true
-    ],
-    "test087_volumes_with_and_without_repetition.py": [
+    "test096_pet_castor.py": [
         true
     ],
     "test044_pbs_rot_transl.py": [
         true
     ],
+    "test004_simple_subprocess.py": [
+        true
+    ],
+    "test077_scatter.py": [
+        true
+    ],
     "test060_phsp_source_translation.py": [
+        true
+    ],
+    "test029_volume_time_rotation_2.py": [
+        true
+    ],
+    "test095_spect_intevo_geom_param.py": [
+        true
+    ],
+    "test083_test_operator_brem_splitting.py": [
+        true
+    ],
+    "test049_pet_digit_blurring_v1.py": [
+        true
+    ],
+    "test094_truncatedGaussian.py": [
+        true
+    ],
+    "test075_siemens_cios_alpha.py": [
         true
     ],
     "test020_profiling.py": [
         true
     ],
-    "test019_linac_elekta_versa_with_mlc_phsp_source.py": [
+    "test096_ideal_Compton_sorter.py": [
+        true
+    ],
+    "test095_spect_intevo_geom_plot.py": [
+        true
+    ],
+    "test049_pet_digit_blurring_v4.py": [
+        true
+    ],
+    "test087_volumes_with_and_without_repetition.py": [
+        true
+    ],
+    "test059_tpsource_flat_generation_flag.py": [
+        true
+    ],
+    "test082_kill_according_all_processes.py": [
+        true
+    ],
+    "test047_voxelization.py": [
+        true
+    ],
+    "test059_tpsource_optics.py": [
+        true
+    ],
+    "test040_gan_phsp_pet_aref.py": [
+        true
+    ],
+    "test060_phsp_source_isotropic_direction.py": [
+        true
+    ],
+    "test095_spect_nm670_geom_plot.py": [
+        true
+    ],
+    "test081_tle_5_db.py": [
+        true
+    ],
+    "test028_ge_nm670_spect_4_acc_angle_noaa.py": [
+        true
+    ],
+    "test078_check_userinfo.py": [
+        true
+    ],
+    "test072_coinc_sorter_step1.py": [
+        true
+    ],
+    "test033_rotation_spect_noaa.py": [
+        true
+    ],
+    "test062_apply_g4_cmds.py": [
+        true
+    ],
+    "test016_bool_volumes.py": [
+        true
+    ],
+    "test060_phsp_source_until_next_primary.py": [
+        true
+    ],
+    "test028_ge_nm670_spect_3_proj_blur.py": [
+        true
+    ],
+    "test094b_spect_build_pytomography.py": [
+        true
+    ],
+    "test096_pet_blur1.py": [
+        true
+    ],
+    "test002_g4string.py": [
         true
     ],
     "test096_multi_run_simulation_using_n_generic_source.py": [
         true
     ],
-    "test062_apply_g4_cmds.py": [
+    "test004_simple.py": [
+        true
+    ],
+    "test089_geometries.py": [
+        true
+    ],
+    "test019_linac_elekta_versa_with_mlc_phsp_source.py": [
+        true
+    ],
+    "test013_half_life.py": [
+        true
+    ],
+    "test079_acollin_ions_geant4_material_inside_body.py": [
         true
     ],
     "test022_half_life.py": [
@@ -686,106 +770,22 @@
     "test060_phsp_source_particletype_direct.py": [
         true
     ],
-    "test023_filters_attribute.py": [
+    "test093_proc_in_vol_attribute.py": [
         true
     ],
-    "test049_pet_digit_blurring_v4.py": [
-        true
-    ],
-    "test090_spect_config_4.py": [
-        true
-    ],
-    "test016_bool_volumes.py": [
-        true
-    ],
-    "test004_simple.py": [
-        true
-    ],
-    "test033_rotation_spect_noaa.py": [
-        true
-    ],
-    "test010_generic_source.py": [
-        true
-    ],
-    "test013_half_life.py": [
-        true
-    ],
-    "test082_kill_according_all_processes.py": [
-        true
-    ],
-    "test095_spect_intevo_geom_param.py": [
-        true
-    ],
-    "test060_phsp_source_until_next_primary.py": [
-        true
-    ],
-    "test095_spect_nm670_geom_plot.py": [
+    "test096_multi_run_simulation_using_n_phsp_source.py": [
         true
     ],
     "test008_dose_actor.py": [
         true
     ],
-    "test096_pet_blur1.py": [
-        true
-    ],
-    "test004_simple_subprocess.py": [
-        true
-    ],
-    "test096_ideal_Compton_sorter.py": [
-        true
-    ],
     "test081_tle_4_high_energy.py": [
         true
     ],
-    "test074_optical_surfaces_pet_1.py": [
-        true
-    ],
-    "test047_voxelization.py": [
-        true
-    ],
-    "test093_proc_in_vol_attribute.py": [
-        true
-    ],
-    "test083_test_operator_brem_splitting.py": [
-        true
-    ],
-    "test059_tpsource_flat_generation_flag.py": [
-        true
-    ],
-    "test094_truncatedGaussian.py": [
-        true
-    ],
-    "test095_spect_intevo_geom_plot.py": [
-        true
-    ],
-    "test040_gan_phsp_pet_aref.py": [
-        true
-    ],
-    "test028_ge_nm670_spect_4_acc_angle_noaa.py": [
-        true
-    ],
-    "test094b_spect_build_pytomography.py": [
-        true
-    ],
-    "test049_pet_digit_blurring_v1.py": [
+    "test047_gan_vox_source_cond.py": [
         true
     ],
     "test049_pet_digit_blurring_v3.py": [
-        true
-    ],
-    "test096_pet_castor.py": [
-        true
-    ],
-    "test059_tpsource_optics.py": [
-        true
-    ],
-    "test079_acollin_ions_geant4_material_inside_body.py": [
-        true
-    ],
-    "test072_coinc_sorter_step1.py": [
-        true
-    ],
-    "test081_tle_5_db.py": [
         true
     ],
     "test072_coinc_sorter_step2_file_output.py": [
