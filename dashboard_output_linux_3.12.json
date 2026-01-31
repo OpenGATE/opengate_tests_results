@@ -818,121 +818,127 @@
     "advanced_tests/electron_flash/test097i_electron_flash_linac.py": [
         ""
     ],
-    "test085_free_flight_phsp_1_ref_mt.py": [
-        false
-    ],
-    "test079_acollin_ions_customMaterial_version_a.py": [
-        true
-    ],
-    "test041_dose_actor_mt_cp_images_n_threads.py": [
-        true
-    ],
-    "test015_iec_phantom_3_mt.py": [
-        true
-    ],
-    "test040_gan_phsp_pet_aref.py": [
-        true
-    ],
-    "test033_rotation_spect_aa_se.py": [
-        true
-    ],
-    "test097_electron_flash_linac_helper.py": [
-        true
-    ],
-    "test090_spect_config_5.py": [
-        true
-    ],
-    "test065_dose_from_edep_volume.py": [
-        true
-    ],
-    "test085_free_flight_phsp_3_scatter_mt.py": [
-        true
-    ],
     "test009_voxels_dynamic.py": [
-        true
-    ],
-    "test019_phsp_actor.py": [
-        true
-    ],
-    "test097c_electron_flash_linac.py": [
-        true
-    ],
-    "test026_simple_signal.py": [
-        true
-    ],
-    "test022_half_life.py": [
-        true
-    ],
-    "test067_cbct_fluence_actor_mt.py": [
-        true
-    ],
-    "test028_ge_nm670_spect_2_hits.py": [
-        true
-    ],
-    "test021_voxel_source2.py": [
-        true
-    ],
-    "test047_voxelization.py": [
-        true
-    ],
-    "test053_phid_10_all_ref_mt.py": [
-        true
-    ],
-    "test081_tle_1_geom.py": [
-        true
-    ],
-    "test033_rotation_spect_aa_ze.py": [
-        true
-    ],
-    "test059_tpsource_flat_generation_flag.py": [
-        true
-    ],
-    "test041_dose_actor_dose_to_water_mt.py": [
-        true
-    ],
-    "test037_pet_hits_singles_1.py": [
-        true
-    ],
-    "test060_phsp_source_particletype_fromphs_pdgcode.py": [
-        true
-    ],
-    "test094b_spect_build_pytomography.py": [
-        true
-    ],
-    "test073_test3_intevo_tc99m_mt.py": [
-        true
-    ],
-    "test014_engine_2.py": [
-        true
-    ],
-    "test036_proj_param_3_no_parent_repeat.py": [
-        true
-    ],
-    "test019_linac_phsp.py": [
-        true
-    ],
-    "test028_ge_nm670_spect_1_colli.py": [
-        true
-    ],
-    "test097e_electron_flash_linac.py": [
-        true
-    ],
-    "test054_parallel_geometry.py": [
         true
     ],
     "test038_gan_phsp_spect_gan_mt.py": [
         true
     ],
-    "test097f_electron_flash_linac.py": [
+    "test044_pbs_weight.py": [
         true
     ],
-    "test038_gan_phsp_spect_training_dataset_mt.py": [
+    "test009_voxels.py": [
         true
     ],
-    "test085_free_flight_spect_2b_fd_mt.py": [
+    "test073_test3_intevo_tc99m_mt.py": [
         true
     ],
-    "test072_coinc_sorter_step1.py": [
+    "test027_fake_spect_mt.py": [
+        true
+    ],
+    "test019_linac_phsp_mt.py": [
+        true
+    ],
+    "test022_half_life.py": [
+        true
+    ],
+    "test085_free_flight_phsp_1_ref_mt.py": [
+        false
+    ],
+    "test037_pet_hits_singles_2.py": [
+        true
+    ],
+    "test081_tle_6_brem_splitting.py": [
+        true
+    ],
+    "test015_iec_phantom_3_mt.py": [
+        true
+    ],
+    "test085_free_flight_phsp_3_scatter_mt.py": [
+        true
+    ],
+    "test053_phid_10_all_ref_mt.py": [
+        true
+    ],
+    "test041_dose_actor_dose_to_water_mt.py": [
+        true
+    ],
+    "test060_phsp_source_until_next_primary.py": [
+        true
+    ],
+    "test017_repeater.py": [
+        true
+    ],
+    "test033_rotation_spect_noaa.py": [
+        true
+    ],
+    "test079_acollin_ions_geant4_material_inside_body.py": [
+        true
+    ],
+    "test014_engine_4_mt.py": [
+        true
+    ],
+    "test065_dose_from_edep_volume.py": [
+        true
+    ],
+    "test097b_electron_flash_linac.py": [
+        true
+    ],
+    "test021_voxel_source2.py": [
+        true
+    ],
+    "test097i_electron_flash_linac.py": [
+        true
+    ],
+    "test040_gan_phsp_pet_aref.py": [
+        true
+    ],
+    "test054_parallel_geometry.py": [
+        true
+    ],
+    "test014_engine_2.py": [
+        true
+    ],
+    "test059_tpsource_abs_dose.py": [
+        true
+    ],
+    "test097_electron_flash_linac_helper.py": [
+        true
+    ],
+    "test097c_electron_flash_linac.py": [
+        true
+    ],
+    "test070_4d_proton_dose.py": [
+        true
+    ],
+    "test023_filters_attribute.py": [
+        true
+    ],
+    "test059_tpsource_flat_generation_flag.py": [
+        true
+    ],
+    "test059_tpsource_range_ref_mt.py": [
+        true
+    ],
+    "test019_linac_phsp.py": [
+        true
+    ],
+    "test028_ge_nm670_spect_2_hits.py": [
+        true
+    ],
+    "test090_spect_config_5.py": [
+        true
+    ],
+    "test080_check_initcpp_exists.py": [
+        true
+    ],
+    "test036_proj_param_3_no_parent_repeat.py": [
+        true
+    ],
+    "test037_pet_hits_singles_1.py": [
+        true
+    ],
+    "test041_dose_actor_mt_cp_images_n_threads.py": [
         true
     ],
     "test081_tle_2_vox.py": [
@@ -941,13 +947,22 @@
     "test054_parallel_geometry_proj.py": [
         true
     ],
-    "test059_tpsource_range_ref_mt.py": [
+    "test079_acollin_ions_customMaterial_version_a.py": [
         true
     ],
-    "test036_adder_depth_repeat.py": [
+    "test072_coinc_sorter_step1.py": [
         true
     ],
-    "test037_pet_hits_singles_2.py": [
+    "test086_digitizeradderactor_policy.py": [
+        true
+    ],
+    "test081_tle_7_vox_rd_HU.py": [
+        true
+    ],
+    "test038_gan_phsp_spect_training_dataset_mt.py": [
+        true
+    ],
+    "test094b_spect_build_pytomography.py": [
         true
     ],
     "test097a_electron_flash_linac.py": [
@@ -956,85 +971,70 @@
     "test097g_electron_flash_linac.py": [
         true
     ],
-    "test014_engine_4_mt.py": [
+    "test010_generic_source_thetaphi.py": [
         true
     ],
-    "test009_voxels.py": [
-        true
-    ],
-    "test004_simulation_stats_utils.py": [
-        true
-    ],
-    "test030_dose_motion_runtime_overhead.py": [
-        true
-    ],
-    "test019_linac_phsp_mt.py": [
-        true
-    ],
-    "test087_beam_quality_actor_rbe_mMKM_mt.py": [
-        true
-    ],
-    "test080_check_initcpp_exists.py": [
-        true
-    ],
-    "test097h_electron_flash_linac.py": [
-        true
-    ],
-    "test053_step_limiter_mt.py": [
-        true
-    ],
-    "test086_digitizeradderactor_policy.py": [
-        true
-    ],
-    "test060_phsp_source_until_next_primary.py": [
-        true
-    ],
-    "test044_pbs_weight.py": [
-        true
-    ],
-    "test081_tle_7_vox_rd_HU.py": [
+    "test026_simple_signal.py": [
         true
     ],
     "test029_volume_time_rotation_1_process.py": [
         true
     ],
-    "test033_rotation_spect_noaa.py": [
+    "test019_phsp_actor.py": [
         true
     ],
-    "test070_4d_proton_dose.py": [
+    "test033_rotation_spect_aa_ze.py": [
         true
     ],
-    "test027_fake_spect_mt.py": [
+    "test067_cbct_fluence_actor_mt.py": [
         true
     ],
-    "test059_tpsource_abs_dose.py": [
+    "test097e_electron_flash_linac.py": [
+        true
+    ],
+    "test087_beam_quality_actor_rbe_mMKM_mt.py": [
+        true
+    ],
+    "test085_free_flight_spect_2b_fd_mt.py": [
+        true
+    ],
+    "test004_simulation_stats_utils.py": [
         true
     ],
     "test005_proton.py": [
         true
     ],
-    "test097b_electron_flash_linac.py": [
-        true
-    ],
-    "test010_generic_source_thetaphi.py": [
-        true
-    ],
-    "test079_acollin_ions_geant4_material_inside_body.py": [
-        true
-    ],
-    "test023_filters_attribute.py": [
-        true
-    ],
-    "test017_repeater.py": [
+    "test030_dose_motion_runtime_overhead.py": [
         true
     ],
     "test097d_electron_flash_linac.py": [
         true
     ],
-    "test097i_electron_flash_linac.py": [
+    "test047_voxelization.py": [
         true
     ],
-    "test081_tle_6_brem_splitting.py": [
+    "test033_rotation_spect_aa_se.py": [
+        true
+    ],
+    "test097f_electron_flash_linac.py": [
+        true
+    ],
+    "test081_tle_1_geom.py": [
+        true
+    ],
+    "test036_adder_depth_repeat.py": [
+        true
+    ],
+    "test097h_electron_flash_linac.py": [
+        true
+    ],
+    "test028_ge_nm670_spect_1_colli.py": [
+        true
+    ],
+    "test053_step_limiter_mt.py": [
+        true
+    ],
+    "test060_phsp_source_particletype_fromphs_pdgcode.py": [
         true
     ],
     "test073_test2_intevo_mt.py": [
