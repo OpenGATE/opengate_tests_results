@@ -9,7 +9,7 @@
         ""
     ],
     "misc\\test004_simple.py": [
-        true
+        ""
     ],
     "misc\\test004_simple_subprocess.py": [
         true
@@ -36,7 +36,7 @@
         ""
     ],
     "geometry\\test009_voxels.py": [
-        true
+        ""
     ],
     "geometry\\test009_voxels_dynamic.py": [
         ""
@@ -57,10 +57,10 @@
         true
     ],
     "source\\test010_generic_source_energy_spectrum_discrete.py": [
-        true
+        ""
     ],
     "source\\test010_generic_source_energy_spectrum_histogram.py": [
-        true
+        ""
     ],
     "source\\test010_generic_source_thetaphi.py": [
         ""
@@ -72,7 +72,7 @@
         true
     ],
     "physics\\test013_phys_lists_4.py": [
-        true
+        ""
     ],
     "physics\\test013_phys_lists_6.py": [
         ""
@@ -84,40 +84,40 @@
         ""
     ],
     "geometry\\test015_iec_phantom_1.py": [
-        true
+        ""
     ],
     "geometry\\test015_iec_phantom_2.py": [
         ""
     ],
     "geometry\\test015_iec_phantom_4.py": [
-        true
+        ""
     ],
     "geometry\\test015_iec_phantom_voxelize_5.py": [
-        ""
+        true
     ],
     "geometry\\test016_bool_volumes.py": [
         ""
     ],
     "geometry\\test017_repeater.py": [
-        ""
-    ],
-    "geometry\\test019_linac_elekta_synergy.py": [
         true
     ],
-    "geometry\\test019_linac_elekta_versa.py": [
+    "geometry\\test019_linac_elekta_synergy.py": [
         ""
+    ],
+    "geometry\\test019_linac_elekta_versa.py": [
+        true
     ],
     "geometry\\test019_linac_elekta_versa_rt_plan_isocenter.py": [
         ""
     ],
     "geometry\\test019_linac_elekta_versa_with_mlc.py": [
-        true
+        ""
     ],
     "geometry\\test019_linac_elekta_versa_with_mlc_phsp_source.py": [
-        ""
+        true
     ],
     "geometry\\test019_linac_elekta_versa_with_mlc_rt_plan.py": [
-        ""
+        true
     ],
     "geometry\\test019_linac_phsp.py": [
         ""
@@ -129,13 +129,13 @@
         ""
     ],
     "geometry\\test019_phsp_actor.py": [
-        true
+        ""
     ],
     "misc\\test020_profiling.py": [
         ""
     ],
     "source\\test021_voxel_source1.py": [
-        true
+        ""
     ],
     "source\\test021_voxel_source2.py": [
         ""
@@ -153,16 +153,16 @@
         ""
     ],
     "actors\\test023_filters_attribute_bool.py": [
-        true
+        ""
     ],
     "actors\\test023_filters_iec_phantom.py": [
-        ""
+        true
     ],
     "actors\\test023_filters_material.py": [
         ""
     ],
     "actors\\test025_hits_collection.py": [
-        true
+        ""
     ],
     "source\\test026_simple_signal.py": [
         ""
@@ -183,13 +183,13 @@
         ""
     ],
     "geometry\\test028_ge_nm670_spect_4_acc_angle_aa_ze.py": [
-        true
+        ""
     ],
     "geometry\\test028_ge_nm670_spect_4_acc_angle_noaa.py": [
-        ""
+        true
     ],
     "geometry\\test029_volume_time_rotation_1.py": [
-        ""
+        true
     ],
     "geometry\\test029_volume_time_rotation_1_process.py": [
         ""
@@ -198,7 +198,7 @@
         ""
     ],
     "actors\\test030_dose_motion.py": [
-        true
+        ""
     ],
     "actors\\test030_dose_motion_dynamic_param.py": [
         ""
@@ -207,19 +207,19 @@
         ""
     ],
     "actors\\test030_dose_motion_runtime_overhead.py": [
-        ""
+        true
     ],
     "source\\test031_beta_plus_spectrum.py": [
         ""
     ],
     "geometry\\test032_create_voxelized_volume.py": [
-        true
+        ""
     ],
     "geometry\\test032_voxel_vs_volume.py": [
         ""
     ],
     "geometry\\test032_voxelized_volume_source.py": [
-        ""
+        true
     ],
     "geometry\\test033_rotation_spect_aa_se.py": [
         true
@@ -234,16 +234,16 @@
         ""
     ],
     "source\\test035_dose_rate.py": [
-        ""
+        true
     ],
     "actors\\test036_adder_depth_param.py": [
-        true
+        ""
     ],
     "actors\\test036_adder_depth_repeat.py": [
         ""
     ],
     "actors\\test036_proj_param_1.py": [
-        ""
+        true
     ],
     "actors\\test036_proj_param_2_with_index.py": [
         ""
@@ -258,19 +258,19 @@
         true
     ],
     "actors\\test037_pet_hits_singles_1.py": [
-        ""
+        true
     ],
     "actors\\test037_pet_hits_singles_2.py": [
         ""
     ],
     "source\\test038_gan_phsp_spect_gan_aa.py": [
-        ""
+        true
     ],
     "source\\test038_gan_phsp_spect_gan_se.py": [
         ""
     ],
     "source\\test038_gan_phsp_spect_gan_ze.py": [
-        true
+        ""
     ],
     "misc\\test039_hits_memory_check.py": [
         true
@@ -285,7 +285,7 @@
         true
     ],
     "actors\\test041_dose_actor.py": [
-        ""
+        true
     ],
     "source\\test042_gauss_gps.py": [
         ""
@@ -318,7 +318,7 @@
         ""
     ],
     "actors\\test049_pet_digit_blurring_v1.py": [
-        true
+        ""
     ],
     "actors\\test049_pet_digit_blurring_v3.py": [
         ""
@@ -336,7 +336,7 @@
         ""
     ],
     "physics\\test053_production_cuts.py": [
-        ""
+        true
     ],
     "geometry\\test054_parallel_geometry.py": [
         ""
@@ -348,19 +348,19 @@
         ""
     ],
     "geometry\\test058_iec_six_spheres.py": [
-        ""
+        true
     ],
     "source\\test059_tpsource_LUT_beammodel.py": [
-        ""
+        true
     ],
     "source\\test059_tpsource_MU_to_N.py": [
-        true
+        ""
     ],
     "source\\test059_tpsource_abs_dose.py": [
         ""
     ],
     "source\\test059_tpsource_flat_generation_flag.py": [
-        ""
+        true
     ],
     "source\\test059_tpsource_gantry_rot.py": [
         ""
@@ -369,7 +369,7 @@
         ""
     ],
     "source\\test059_tpsource_optics_vbl.py": [
-        true
+        ""
     ],
     "source\\test059_tpsource_weights.py": [
         ""
@@ -384,7 +384,7 @@
         ""
     ],
     "source\\test060_phsp_source_rotation.py": [
-        ""
+        true
     ],
     "source\\test060_phsp_source_translation.py": [
         ""
@@ -405,19 +405,19 @@
         ""
     ],
     "actors\\test065_dose_from_edep_ct.py": [
-        true
+        ""
     ],
     "actors\\test065_dose_from_edep_volume.py": [
-        ""
+        true
     ],
     "source\\test066_phspsource_activity.py": [
         ""
     ],
     "geometry\\test067_tesselated_volume.py": [
-        true
+        ""
     ],
     "source\\test068_rotation_source.py": [
-        true
+        ""
     ],
     "misc\\test069_sim_as_dict.py": [
         ""
@@ -432,7 +432,7 @@
         ""
     ],
     "source\\test072_back_to_back_source.py": [
-        ""
+        true
     ],
     "actors\\test072_coinc_sorter_step1.py": [
         true
@@ -441,7 +441,7 @@
         ""
     ],
     "actors\\test072_coinc_sorter_step2_min_trans_diff.py": [
-        true
+        ""
     ],
     "actors\\test072_coinc_sorter_step2_removeMultiples.py": [
         ""
@@ -456,7 +456,7 @@
         ""
     ],
     "physics\\test074_optical_surfaces_pet_1.py": [
-        true
+        ""
     ],
     "physics\\test077_scatter.py": [
         ""
@@ -471,16 +471,16 @@
         ""
     ],
     "source\\test079_acollin_ions_customMaterial_version_a.py": [
-        ""
+        true
     ],
     "source\\test079_acollin_ions_customMaterial_version_b.py": [
-        true
+        ""
     ],
     "source\\test079_acollin_ions_gate_materials.py": [
-        true
+        ""
     ],
     "source\\test079_acollin_ions_geant4_material.py": [
-        ""
+        true
     ],
     "source\\test079_acollin_ions_geant4_material_inside_body.py": [
         ""
@@ -498,19 +498,19 @@
         ""
     ],
     "actors\\test081_tle_1_geom.py": [
-        true
+        ""
     ],
     "actors\\test081_tle_2_vox.py": [
-        true
+        ""
     ],
     "actors\\test081_tle_4_high_energy.py": [
-        ""
+        true
     ],
     "actors\\test081_tle_5_db.py": [
-        ""
+        true
     ],
     "actors\\test081_tle_6_brem_splitting.py": [
-        ""
+        true
     ],
     "actors\\test081_tle_7_vox_rd_HU.py": [
         true
@@ -525,7 +525,7 @@
         ""
     ],
     "actors\\test083_test_operator_brem_splitting.py": [
-        true
+        ""
     ],
     "physics\\test084_attenuation_map1.py": [
         ""
@@ -546,7 +546,7 @@
         ""
     ],
     "physics\\test088_isotopes.py": [
-        ""
+        true
     ],
     "geometry\\test089_geometries.py": [
         true
@@ -555,13 +555,13 @@
         true
     ],
     "geometry\\test090_spect_config_1.py": [
-        ""
+        true
     ],
     "geometry\\test090_spect_config_3.py": [
         true
     ],
     "geometry\\test090_spect_config_4.py": [
-        ""
+        true
     ],
     "geometry\\test090_spect_config_5.py": [
         ""
@@ -585,13 +585,13 @@
         ""
     ],
     "actors\\test094_truncatedGaussian.py": [
-        ""
+        true
     ],
     "external\\pytomography\\test094b_spect_build_pytomography.py": [
-        true
+        ""
     ],
     "external\\pytomography\\test094c_spect_reconstruction_pytomography.py": [
-        true
+        ""
     ],
     "geometry\\test095_spect_intevo_geom_param.py": [
         true
@@ -603,13 +603,13 @@
         ""
     ],
     "geometry\\test095_spect_nm670_geom_plot.py": [
-        ""
+        true
     ],
     "actors\\test096_ideal_compton_sorter.py": [
         ""
     ],
     "source\\test096_multi_run_simulation_using_n_generic_source.py": [
-        true
+        ""
     ],
     "source\\test096_multi_run_simulation_using_n_phsp_source.py": [
         ""
@@ -621,6 +621,9 @@
         ""
     ],
     "advanced_tests\\electron_flash\\test097_electron_flash_linac_helper.py": [
+        ""
+    ],
+    "test097_pileup.py": [
         ""
     ],
     "advanced_tests\\electron_flash\\test097a_electron_flash_linac.py": [
