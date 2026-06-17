@@ -168,7 +168,7 @@
         true
     ],
     "actors\\test023_filters_material.py": [
-        true
+        false
     ],
     "actors\\test023_interaction_counter_auxiliary_attribute.py": [
         true
