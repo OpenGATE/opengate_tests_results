@@ -771,7 +771,7 @@
         true
     ],
     "geometry\\test099_fields_stepper.py": [
-        false
+        true
     ],
     "geometry\\test099_fields_stepper_em.py": [
         true
