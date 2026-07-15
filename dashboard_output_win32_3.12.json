@@ -573,7 +573,7 @@
         true
     ],
     "actors\\test086_digitizeradderactor_policy.py": [
-        false
+        true
     ],
     "actors\\test087_beam_quality_actor_re.py": [
         true
