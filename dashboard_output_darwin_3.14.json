@@ -615,13 +615,13 @@
         true
     ],
     "actors/test072_coinc_sorter_step2_min_trans_diff.py": [
-        false
+        true
     ],
     "actors/test072_coinc_sorter_step2_removeMultiples.py": [
         true
     ],
     "actors/test072_coinc_sorter_step2_takeAllGoods.py": [
-        false
+        true
     ],
     "actors/test072_coinc_sorter_step2_takeWinnerIfIsGood.py": [
         true
