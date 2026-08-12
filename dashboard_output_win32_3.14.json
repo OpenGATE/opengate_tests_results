@@ -816,7 +816,7 @@
         true
     ],
     "actors\\test100_deadtime_jobs_merge.py": [
-        false
+        true
     ],
     "actors\\test100_deadtime_simulation.py": [
         true
