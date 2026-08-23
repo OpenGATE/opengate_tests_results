@@ -309,7 +309,7 @@
         true
     ],
     "source\\test038_gan_phsp_spect_gan_se.py": [
-        false
+        true
     ],
     "source\\test038_gan_phsp_spect_gan_ze.py": [
         true
@@ -792,7 +792,7 @@
         true
     ],
     "geometry\\test099_fields_stepper.py": [
-        false
+        true
     ],
     "geometry\\test099_fields_stepper_em.py": [
         true
