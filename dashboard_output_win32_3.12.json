@@ -42,7 +42,7 @@
         ""
     ],
     "geometry\\test009_voxels_dynamic_jobs_merge.py": [
-        false
+        true
     ],
     "geometry\\test009_voxels_dynamic_jobs_split.py": [
         ""
