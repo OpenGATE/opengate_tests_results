@@ -90,7 +90,7 @@
         true
     ],
     "source/test013_half_life.py": [
-        false
+        true
     ],
     "source/test013_half_life_jobs_split.py": [
         true
@@ -1023,7 +1023,7 @@
         true
     ],
     "actors/test100_deadtime_actor.py": [
-        false
+        true
     ],
     "actors/test100_deadtime_actor_mt.py": [
         true
